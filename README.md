@@ -8,7 +8,6 @@ Care Circle is a community-driven platform designed to foster support, connectio
 <br>
 
 [Live Website](https://carecircle-gamma.vercel.app/) can be found here.
-
 <br>
 
 Prototype for [Desktop](https://shorturl.at/tWCUZ)and [Mobile](https://shorturl.at/V9UBW)
@@ -18,7 +17,6 @@ Prototype for [Desktop](https://shorturl.at/tWCUZ)and [Mobile](https://shorturl.
 <br>
 
 [Target Audeince](https://youtube.com/shorts/y6KNiMGbOFc)
-
 <br>
 
 [Patient's POV video](https://youtu.be/Jl3b01GkI2A)
