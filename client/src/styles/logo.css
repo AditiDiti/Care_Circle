@@ -1,0 +1,21 @@
+.logo-container {
+  display: flex;
+  align-items: center;
+  width: 48px;
+  min-height: 36px;
+}
+.logo {
+  font-size: 48px;
+  font-family: Arial, sans-serif;
+  position: relative;
+  color: var(--bold-text-color);
+}
+.logo .normal-c {
+  /* position: absolute; */
+  left: 0;
+}
+.logo .inverted-c {
+  position: absolute;
+  left: 15px;
+  transform: scaleX(-1);
+}

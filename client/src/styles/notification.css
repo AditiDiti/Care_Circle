@@ -1,0 +1,16 @@
+@import url(app.css);
+
+.notif-section {
+  justify-content: flex-start;
+  flex-direction: column;
+  margin-bottom: 2rem;
+
+}
+
+.disable-btn {
+  cursor: no-drop;
+}
+
+.disable-btn:hover {
+  background-color: rgba(0, 128, 0, 0.528) !important;
+}

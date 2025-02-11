@@ -1,0 +1,37 @@
+.container-1680 {
+  margin: 0 auto;
+  max-width: 1680px;
+}
+
+.max-w-1680 {
+  max-width: 1680px;
+}
+
+.w-1680 {
+  width: 1680px;
+}
+
+.w-max-content {
+  width: max-content;
+}
+
+/* Using flexbox to make header and footer work as expected */
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+
+  .content {
+    flex: 1 0 auto;
+    align-self: center;
+    width: 100%;
+  }
+
+  > footer.footer {
+    flex-shrink: 0;
+  }
+}

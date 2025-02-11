@@ -1,0 +1,21 @@
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+/* Gaps */
+.gap-4 {
+  gap: 4px;
+}
+
+.gap-8 {
+  gap: 8px;
+}
+/* Margins */
+
+.m-auto {
+  margin: auto;
+}

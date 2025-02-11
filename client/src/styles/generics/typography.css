@@ -1,0 +1,46 @@
+/*
+ * Sets some base rules for typography
+ */
+
+
+body {
+  font-family: var(--font-family);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  text-shadow: 0 -1px 1px rgba(255, 255, 255, 0.01);
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: var(--font-family);
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: unset !important;
+}
+
+button {
+  line-height: 1;
+}
+
+a {
+  color: var(--light-text-color);
+}
+
+
+
+/* RW OVERRIDES
+ *
+ * We shouldn't need these, but whilst we keep the RW styles in at the top, we might
+ * need to override them.
+ */
+
+p {
+  font-size: 1rem;
+}
