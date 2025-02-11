@@ -9,7 +9,6 @@ Care Circle is a community-driven platform designed to foster support, connectio
 
 [Live Website](https://carecircle-gamma.vercel.app/) can be found here.
 
-
 <br>
 
 Prototype for [Desktop](https://shorturl.at/tWCUZ)and [Mobile](https://shorturl.at/V9UBW)
@@ -24,7 +23,8 @@ Prototype for [Desktop](https://shorturl.at/tWCUZ)and [Mobile](https://shorturl.
 
 [Patient's POV video](https://youtu.be/Jl3b01GkI2A)
 
-###Key Features  
+
+## ✨Key Features  
 ✔ **Therapy Support** – Connect with licensed therapists for emotional well-being.  
 ✔ **AI-powered 24/7 Bot** – Instant support, crisis management, and guidance anytime.  
 ✔ **Paramedical Staff Services** – Access trained professionals for caregiving assistance.  
@@ -33,7 +33,7 @@ Prototype for [Desktop](https://shorturl.at/tWCUZ)and [Mobile](https://shorturl.
 ✔ **Appointment Management** – Easy booking and scheduling for therapy & caregiving.
 
 
-## 🤔 Why HelpingHands? 
+## 🤔 Why Care Circle? 
 Our project CareCircle revolves around caring for people who have loved ones suffering from mental disorders. Around 970 million people globally live with mental health disorders, and along with them, there are 970 million+ caregivers. Shockingly, nearly 50% of these caregivers experience clinically diagnosed depression, driven by the emotional and physical toll of their responsibilities. CareCircle is our step toward supporting these unsung heroes.
 
 Through CareCircle, caregivers gain access to essential features designed to make their lives easier and healthier. We offer therapy support to help them heal emotionally and mental health resources to keep them informed and empowered. Our AI-powered 24/7 bot is always available for instant guidance and crisis support. Need caregiving assistance? We connect users with paramedical staff, babysitting help, and elder care services, ensuring they never feel alone in their journey.
