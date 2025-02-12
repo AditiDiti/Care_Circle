@@ -6,11 +6,11 @@ Care Circle is a community-driven platform designed to foster support, connectio
 <a name="demo"></a>
 ### 👩‍💻 Some Links !
 <br>
-
-[Live Website](https://carecircle-gamma.vercel.app/) can be found here.
+🔗
+[Live Website](https://carecircle-gamma.vercel.app/)
 <br>
-
-Prototype for [Desktop](https://shorturl.at/tWCUZ) and [Mobile](https://shorturl.at/V9UBW)
+📱
+[Desktop Version](https://shorturl.at/tWCUZ) <br> [Mobile Version](https://shorturl.at/V9UBW)
 <br>
 
  [Presentation](https://www.canva.com/design/DAGeK8Jz3zI/8mPgqxRCliO5-BrLEX8Iog/edit?utm_content=DAGeK8Jz3zI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
