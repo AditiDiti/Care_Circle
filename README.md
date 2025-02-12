@@ -7,7 +7,7 @@ Care Circle is a community-driven platform designed to foster support, connectio
 ### 👩‍💻 Some Links!
 <br>
 🔗
-[Live Website](https://carecircle-gamma.vercel.app/)
+[Live Website](https://carecircle-gamma.vercel.app)
 <br>
 📱Prototype <br>
 
