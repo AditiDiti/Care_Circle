@@ -4,13 +4,16 @@ Care Circle is a community-driven platform designed to foster support, connectio
 
 
 <a name="demo"></a>
-### 👩‍💻 Some Links !
+### 👩‍💻 Some Links!
 <br>
 🔗
 [Live Website](https://carecircle-gamma.vercel.app/)
 <br>
-📱
-[Desktop Version](https://shorturl.at/tWCUZ) <br> [Mobile Version](https://shorturl.at/V9UBW)
+📱Prototype <br>
+
+[Desktop Version](https://shorturl.at/tWCUZ)
+<br> 
+[Mobile Version](https://shorturl.at/V9UBW)
 <br>
 
  [Presentation](https://www.canva.com/design/DAGeK8Jz3zI/8mPgqxRCliO5-BrLEX8Iog/edit?utm_content=DAGeK8Jz3zI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
