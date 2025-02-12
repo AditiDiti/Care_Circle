@@ -15,13 +15,13 @@ Care Circle is a community-driven platform designed to foster support, connectio
 <br> 
 [Mobile Version](https://shorturl.at/V9UBW)
 <br>
-
+📊
  [Presentation](https://www.canva.com/design/DAGeK8Jz3zI/8mPgqxRCliO5-BrLEX8Iog/edit?utm_content=DAGeK8Jz3zI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 <br>
-
-[Target Audeince](https://youtube.com/shorts/y6KNiMGbOFc)
+🎥
+[Target Audeince Video](https://youtube.com/shorts/y6KNiMGbOFc)
 <br>
-
+📽️
 [Patient's POV video](https://youtu.be/Jl3b01GkI2A)
 
 
