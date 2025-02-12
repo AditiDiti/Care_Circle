@@ -26,12 +26,12 @@ Care Circle is a community-driven platform designed to foster support, connectio
 
 
 ## ✨Key Features  
-✔ **Therapy Support** – Connect with licensed therapists for emotional well-being.  
-✔ **AI-powered 24/7 Bot** – Instant support, crisis management, and guidance anytime.  
-✔ **Paramedical Staff Services** – Access trained professionals for caregiving assistance.  
-✔ **Babysitting & Elder Care** – Reliable child and senior care services.  
-✔ **Mental Health Articles** – Expert insights and tips for better mental well-being.  
-✔ **Appointment Management** – Easy booking and scheduling for therapy & caregiving.
+Our Features at a Glance:
+🛋️ Therapy Support for emotional healing
+🤖 AI-powered bot for 24/7 assistance
+👩‍⚕️ Paramedical staff for caregiving support
+👶 Babysitting & elder care services
+📚 Informative mental health resources
 
 
 ## 🤔 Why Care Circle? 
