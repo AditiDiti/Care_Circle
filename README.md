@@ -19,7 +19,7 @@ Through **interactive features, resources**, and a **compassionate community**, 
 
 🎥 [**Target Audience Video**](https://youtube.com/shorts/y6KNiMGbOFc)  
 📽️ [**Patient's POV Video**](https://youtu.be/Jl3b01GkI2A)  
-📊 [**Project Presentation**](https://www.canva.com/design/DAGeK8Jz3zI/8mPgqxRCliO5-BrLEX8Iog/edit?utm_content=DAGeK8Jz3zI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+📊 [**Project Presentation**](https://www.canva.com/design/DAGe3rzTyw8/tqKinc-kzyPrwB3GS6Mtyw/edit?utm_content=DAGe3rzTyw8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 ---
 
