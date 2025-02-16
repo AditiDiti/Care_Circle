@@ -53,11 +53,20 @@ CareCircle is our step toward supporting these **unsung heroes**.
 
 ---
 
-## 🚀 Technology Used  
+## 🚀 Technology Used
 
 <p align="center">
-  <a href="https://reactjs.org/"><img src="https://img.icons8.com/ultraviolet/80/react--v2.png" alt="React" /></a>  
-  <a href="https://nodejs.org/"><img src="https://img.icons8.com/color/80/nodejs.png" alt="Node.js" /></a>  
-  <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/80/mongodb.png" alt="MongoDB" /></a>  
-  <a href="https://expressjs.com/"><img src="https://img.icons8.com/ios-filled/80/express-js.png" alt="Express" /></a>  
-</p>  
+  <a href="https://reactjs.org/">
+    <img src="https://img.icons8.com/ultraviolet/80/react--v2.png" alt="React" width="80"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.icons8.com/color/80/nodejs.png" alt="Node.js" width="80"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.icons8.com/color/80/mongodb.png" alt="MongoDB" width="80"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://img.icons8.com/color/80/express-js.png" alt="Express" width="80"/>
+  </a>
+</p>
+
